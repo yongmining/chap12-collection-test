@@ -1,0 +1,6 @@
+#jdbc driver
+#Tue Jan 31 15:13:23 KST 2023
+password=STUDENT
+driver=oracle.jdbc.driver.OracleDriver
+user=C\#\#STUDENT
+url=jdbc\:oracle\:thin\:@localhost\:1521\:xe
